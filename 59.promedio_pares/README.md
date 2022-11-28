@@ -1,0 +1,3 @@
+# Ejercicio No. 59: Promedio de pares.
+
+En este ejercicio se define una función llamada promediar_pares. La función recorre cada elemento de una lista y si el resto de dividirlo entre 2 es igual a cero, entonces el elemento es par. En caso de que el elemento sea par, la función suma el valor al acumulador y al contador. Al finalizar el ciclo, el acumulador contiene la suma de todos los elementos pares. Por lo tanto, para obtener el promedio basta con dividir el acumulador entre el contador. Finalmente, se invocará la función para imprimirla en pantalla.
